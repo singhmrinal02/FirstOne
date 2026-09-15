@@ -1,4 +1,5 @@
 # FirstOne
+
 This is my first repository .
 <br>
-Author-Mrinal Singh
+Author-Singh MRINAL
